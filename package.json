@@ -11,12 +11,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/oborudko/jquery-with-js.git"
+    "url": "git+https://github.com/cacko/jquery-with-js.git"
   },
   "author": "cacko",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/oborudko/jquery-with-js/issues"
+    "url": "https://github.com/cacko/jquery-with-js/issues"
   },
-  "homepage": "https://github.com/oborudko/jquery-with-js#readme"
+  "homepage": "https://github.com/cacko/jquery-with-js#readme"
 }
