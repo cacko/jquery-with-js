@@ -1,10 +1,13 @@
 {
-  "name": "jquery-load-with",
+  "name": "jquery-with-js",
   "version": "1.0.0",
-  "description": "",
+  "description": "loads js/css from ajax response/call in order",
   "main": "jquery-with-js.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "jquery": ">=1.5"
   },
   "repository": {
     "type": "git",
