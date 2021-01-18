@@ -1,0 +1,19 @@
+{
+  "name": "jquery-load-with",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jquery-with-js.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oborudko/jquery-load-with-js.git"
+  },
+  "author": "cacko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oborudko/jquery-load-with-js/issues"
+  },
+  "homepage": "https://github.com/oborudko/jquery-load-with-js#readme"
+}
