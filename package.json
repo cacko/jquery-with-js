@@ -1,6 +1,6 @@
 {
   "name": "jquery-with-js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "loads js/css from ajax response/call in order",
   "main": "jquery-with-js.js",
   "scripts": {
